@@ -1,0 +1,10 @@
+NOTICE
+
+This project includes the following third-party software:
+
+- ollama: Apache 2.0 License
+- vosk: Apache 2.0 License
+- pyttsx3: BSD License
+- sounddevice: MIT License
+
+For full license texts, see the respective project pages on https://pypi.org/ or the official project repositories.
